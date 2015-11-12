@@ -1,2 +1,5 @@
 Passos Aula.
 modificação depois do commit.
+utilizando o diff
+diff cached
+diff cached 2
